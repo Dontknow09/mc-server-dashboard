@@ -1,4 +1,4 @@
-# Minecraft Server Dashboard
+# [WIP] Minecraft Server Dashboard
 Minecraft Server Dashboard to manage your Server like a pro. UI inpired by Modrinth aka UI Design done right
 ## Installation
 ## Usage
