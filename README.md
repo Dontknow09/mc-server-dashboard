@@ -5,4 +5,4 @@ Minecraft Server Dashboard to manage your Server like a pro. UI inpired by Modri
 ### Player Management
 ### Server Settings
 ### Plugin Settings
-Support for popular plugins!
+Settings menus for popular plugins!
